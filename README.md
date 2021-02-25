@@ -1,3 +1,16 @@
-Anahtarlar.json a tokeni yerleştiriniz.Merhaba arkadaşlar ben mustafa uzun zaman dır bot yapmak istedim  bu yaptığım botun ready.js dosyası sıkıntılı onu siz düzeltirsiniz ayarlar.json da tokenleri koymayınız onun için özel alan var oraya yerleştirin ve quick.db modülünü yükleyin.Bu bot emirhan saraç alt yapısından alma va altyapıya +komut kodlar eklenmiştir.
+Bot Altyapı Projesine Hoşgeldin!
+=================
+ Bu Dosya (Geliştirilmiş) Tamamen `Emirhan Saraç'a Aittir`. Bot Altyapısını Sizlerin Kullanması İçin Verdik Gerekli Modüller Yüklüdür..!
 
-DİCORD V11 DİR GÜNCELLEMEYİNNNNNNNNNNNNN
+[Resmi Discord Sunucumuz](https://discord.gg/Zwr4MqyKrC)
+
+[Resmi Youtube Kanalımız](https://www.youtube.com/channel/UCVRhrcoG6FOvHGKehYtvKHg?view_as=subscriber)
+
+[Resmi İnstagram Hesabımız](https://www.instagram.com/emirhansarac06/)
+
+Discord.js v12 Bu Altyapıda Çalışmaz. Discord.js'yi Güncellemeyin!
+
+-------------------
+
+`İyi Kullanımlar!`
+
